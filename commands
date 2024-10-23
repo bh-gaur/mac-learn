@@ -3,3 +3,5 @@
 launchctl list | grep ssh
 
 hello
+
+learning git commands
