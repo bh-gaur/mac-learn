@@ -1,0 +1,3 @@
+##check ssh status in mac
+
+launchctl list | grep ssh
